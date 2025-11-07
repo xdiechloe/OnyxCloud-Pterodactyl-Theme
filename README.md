@@ -1,17 +1,14 @@
-# OnyxCloud Pterodactyl Admin Theme
+# OnyxCloud Pterodactyl Theme
 
-A sleek, modern dark theme for Pterodactyl Panel 1.x, designed to enhance the admin interface with a professional and intuitive experience.
-
-![OnyxCloud Theme Preview](preview.png)
+A modern, dark theme for Pterodactyl Panel with a clean and professional design.
 
 ## Features
 
-- 🎨 Modern dark theme with a clean, professional look
-- 🖥️ Optimized for all screen sizes
-- 🚀 Improved UI/UX for all admin panel sections
-- 🎯 Better contrast and readability
-- ⚡ Performance optimized
-- 🔧 Easy to customize and extend
+- Dark theme with modern UI elements
+- Fully responsive design
+- Easy to customize colors and styles
+- Compatible with Pterodactyl Panel 1.x
+- Blueprint compatible for easy installation
 
 ## Installation
 

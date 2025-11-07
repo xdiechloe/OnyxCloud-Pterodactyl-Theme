@@ -1,0 +1,22 @@
+{
+  "name": "OnyxCloud",
+  "version": "1.0.0",
+  "description": "A modern dark theme for Pterodactyl Panel",
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xdiechloe/OnyxCloud-Pterodactyl-Theme"
+  },
+  "dependencies": {
+    "@pterodactyl/theme": "git+https://github.com/pterodactyl/panel.git#1.0-develop"
+  },
+  "scripts": {
+    "build": "vite build"
+  },
+  "pterodactyl": {
+    "title": "OnyxCloud",
+    "description": "A sleek, modern dark theme for Pterodactyl Panel",
+    "screenshot": "https://raw.githubusercontent.com/xdiechloe/OnyxCloud-Pterodactyl-Theme/main/screenshot.png"
+  }
+}
