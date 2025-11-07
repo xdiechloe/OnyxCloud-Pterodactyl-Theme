@@ -1,0 +1,21 @@
+{
+    "name": "onyxcloud/pterodactyl-theme",
+    "description": "A modern dark theme for Pterodactyl Panel",
+    "type": "pterodactyl-theme",
+    "license": "MIT",
+    "require": {
+        "pterodactyl/panel": "^1.0"
+    },
+    "extra": {
+        "pterodactyl-theme": {
+            "name": "OnyxCloud",
+            "description": "A sleek, modern dark theme for Pterodactyl Panel"
+        }
+    },
+    "authors": [
+        {
+            "name": "OnyxCloud Team",
+            "email": "support@onyxcloud.eu"
+        }
+    ]
+}
